@@ -1,5 +1,5 @@
 build
-dist
+//dist
 webpack-dist
 jspm_packages
 node_modules
